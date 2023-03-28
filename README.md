@@ -34,4 +34,4 @@ Para fazer uma lista de afazeres, usamos -[ ] para item não concluído e -[X] p
 - [X] Criação de repositório
 - [X] Tutorial de markdown
 - [X] Subir arquivos
-- [ ] Mostrar via VSCode
+- [X] Mostrar via VSCode
