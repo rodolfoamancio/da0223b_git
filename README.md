@@ -33,4 +33,5 @@ Para fazer listas enumeradas, começamos cada linha com um número (sequencial),
 Para fazer uma lista de afazeres, usamos -[ ] para item não concluído e -[X] para item concluído:
 - [X] Criação de repositório
 - [X] Tutorial de markdown
-- [ ] Subir arquivos
+- [X] Subir arquivos
+- [ ] Mostrar via VSCode
